@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="o_linux_cmd" GeneratedClassName="app">
+  <Profiles />
+  <Settings>
+    <Setting Name="Auto_Start_Config" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Skip_Version_Config" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0</Value>
+    </Setting>
+    <Setting Name="Min_Tray_Config" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Close_Tray_Config" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Update_Cycle_Config" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Last_Time_Config" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2018-10-08 05:20:00</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
