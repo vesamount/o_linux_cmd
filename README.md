@@ -1,2 +1,2 @@
-# o_linux_cmd
+# O-LinuxCmd
 An offline linux command search tool
